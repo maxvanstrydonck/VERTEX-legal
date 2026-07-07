@@ -1,6 +1,24 @@
-# VERTEX — Legal
+# VERTEX — Support
 
-Legal documents for the VERTEX workout tracker app.
+VERTEX is a workout tracker with a social feed, for iPhone.
+
+## Get help
+
+For any question, bug report, account issue, or data request, email
+**maxvanstry.mvs@gmail.com**. We aim to respond within 24 hours.
+
+## Report content or users
+
+You can report an athlete from their profile page inside the app, and block any
+athlete (your block list is in Settings). Reports are reviewed and acted on
+within 24 hours.
+
+## Legal
 
 - [Privacy Policy](privacy-policy.md)
-- [Terms of Use](terms.md)
+- [Terms of Use & Content Policy](terms.md)
+
+## Delete your account
+
+In the app: **Settings → Danger zone → Delete account**. This permanently
+deletes your account, profile, workouts, and photos from our servers.

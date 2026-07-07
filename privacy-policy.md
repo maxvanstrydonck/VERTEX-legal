@@ -1,6 +1,6 @@
 # VERTEX Privacy Policy
 
-_Last updated: July 5, 2026_
+_Last updated: July 7, 2026_
 
 VERTEX ("the app") is a workout tracker with a social feed, operated by Max Vanstry
 (contact: maxvanstry.mvs@gmail.com). This policy explains what data the app handles
@@ -15,21 +15,34 @@ authentication provider; we never see it), display name, and chosen username.
 optional body stats (bodyweight, height), and personal records. This data is stored
 on your device and synced to your account so it survives switching phones.
 
+**Content you share** — if you choose to share a workout, its caption, any photos
+you attach, and training partners you tag are uploaded to our servers so your
+followers can see them.
+
 **Social data** — who you follow, kudos you give, athletes you block, and reports
 you file.
 
-**Profile photo** — stored only on your device. It is not uploaded to our servers
-and other users cannot see it.
+**Profile photo** — optional. If you set one, it is uploaded to our servers and
+shown to other users next to your name (feed, search, leaderboards).
 
-We do **not** collect analytics, advertising identifiers, location data, or contacts,
-and we do not use third-party tracking.
+**Crash reports** — if the app crashes, technical details about the crash (device
+model, OS version, app state at the time) may be sent to our crash-reporting
+provider (Sentry) so we can fix the bug. Crash reports contain no account or
+fitness data.
+
+We do **not** collect advertising identifiers, location data, or contacts, and we
+do not use third-party tracking for advertising or analytics.
 
 ## What other users can see
 
-- Your **display name and username** are visible to signed-in users (search, feed,
-  follower lists).
-- **Workouts are private by default.** A workout is visible only to people who
-  follow you, and only if you chose to share it when finishing it.
+- Your **display name, username, and profile photo** are visible to signed-in
+  users (search, feed, follower lists).
+- **Workouts are private by default.** A workout — including its caption and
+  photos — is visible only to people who follow you, and only if you chose to
+  share it when finishing it.
+- **Gym leaderboards are opt-in.** If you turn on "Show me on gym leaderboards",
+  your home gym and your best lifts from shared workouts are visible to other
+  signed-in users, including people you don't follow. Turning it off removes you.
 - Your email, bodyweight, height, and goals are **never** visible to other users.
 
 ## Where data is stored

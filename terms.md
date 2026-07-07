@@ -1,6 +1,6 @@
 # VERTEX Terms of Use & Content Policy
 
-_Last updated: July 5, 2026_
+_Last updated: July 6, 2026_
 
 By creating a VERTEX account you agree to these terms.
 
@@ -23,11 +23,15 @@ to other users. You agree not to:
 
 ## Moderation
 
+- **We have zero tolerance for objectionable content and abusive users.** Content
+  or behavior that violates the rules above leads to removal of the content and
+  suspension or deletion of the offending account, without prior notice.
 - You can **report** an athlete from their profile page and **block** any athlete
   (Settings shows your block list). Blocking hides your content from each other in
   both directions.
-- Reports are reviewed, and we may remove content or suspend/delete accounts that
-  violate these rules, at our discretion and without prior notice.
+- **We act on reports within 24 hours**: reported content is reviewed and, where it
+  violates these terms, removed — and the user who posted it ejected — within that
+  window.
 - To appeal a moderation decision, contact **maxvanstry.mvs@gmail.com**.
 
 ## Fitness disclaimer
