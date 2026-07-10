@@ -5,7 +5,7 @@ VERTEX is a workout tracker with a social feed, for iPhone.
 ## Get help
 
 For any question, bug report, account issue, or data request, email
-**maxvanstry.mvs@gmail.com**. We aim to respond within 24 hours.
+**vertex.strength.support@gmail.com**. We aim to respond within 24 hours.
 
 ## Report content or users
 
