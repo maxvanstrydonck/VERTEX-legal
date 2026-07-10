@@ -10,7 +10,7 @@ For any question, bug report, account issue, or data request, email
 ## Report content or users
 
 You can report an athlete from their profile page inside the app, and block any
-athlete (your block list is in Settings). Reports are reviewed and acted on
+athlete (your block list is in Settings). Reports are aimed to be reviewed and acted on
 within 24 hours.
 
 ## Legal
