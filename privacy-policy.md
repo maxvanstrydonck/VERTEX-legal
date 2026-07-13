@@ -1,6 +1,6 @@
 # VERTEX Privacy Policy
 
-_Last updated: July 12, 2026_
+_Last updated: July 13, 2026_
 
 VERTEX ("the app") is a workout tracker with a social feed, operated by Max Vanstry
 (contact: vertex.strength.support@gmail.com). This policy explains what data the app handles
@@ -15,13 +15,17 @@ also record which version of the Terms of Use you accepted, and when.
 **Fitness data you enter** — workouts (exercises, sets, weights, reps, duration),
 optional body stats (bodyweight, height, birth date, sex), and personal records.
 This data is stored on your device and synced to your account so it survives
-switching phones. Birth date and sex are optional, are used only to refine
-on-device calorie estimates, and are never visible to other users.
+switching phones. Birth date and sex are optional and refine on-device calorie
+estimates. Birth date is never visible to other users. Sex additionally places
+you on the optional men's/women's leaderboards and is visible to other users
+**only while you have gym leaderboards turned on** (see below); otherwise it
+stays private.
 
 **Content you share** — if you choose to share a workout, its caption, any photos
 you attach, and training partners you tag are uploaded to our servers so your
 followers can see them. Comments you post on shared workouts are stored the same
-way.
+way. If you post a routine on your profile, its name, exercise list, and starting
+sets are uploaded so other users can view it and add it to their own routines.
 
 **Social data** — who you follow, kudos you give, comments you post, athletes you
 block, and reports you file.
@@ -57,10 +61,17 @@ third-party tracking for advertising or analytics.
   share it when finishing it. Comments on a shared workout are visible to the
   same people.
 - **Gym leaderboards are opt-in.** If you turn on "Show me on gym leaderboards",
-  your home gym and your best lifts from shared workouts are visible to other
-  signed-in users, including people you don't follow. Turning it off removes you.
-- Your email, bodyweight, height, birth date, sex, and goals are **never**
-  visible to other users.
+  your home gym, your best lifts from shared workouts and — if you've set it —
+  your sex (so the men's and women's boards can place you) are visible to other
+  signed-in users, including people you don't follow. Turning it off removes all
+  of it, including your sex.
+- **Routines you post on your profile are public to signed-in users.** Anyone
+  signed in (except athletes you've blocked or who blocked you) can view them
+  and add a copy to their own routines; the number of times a routine was added
+  is shown publicly. Removing a posted routine takes it off your profile, but
+  copies other athletes already added remain theirs.
+- Your email, bodyweight, height, birth date, and goals are **never** visible to
+  other users. Sex is visible only in the opt-in gym-leaderboard case above.
 
 ## Where data is stored
 
