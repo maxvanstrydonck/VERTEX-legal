@@ -52,7 +52,7 @@ tagged in a workout.
 - **We act on reports within 24 hours**: reported content is reviewed and, where it
   violates these terms, removed — and the user who posted it ejected — within that
   window.
-- To appeal a moderation decision, contact **vertex.strength.support@gmail.com**.
+- To appeal a moderation decision, contact **support@vertexstrengthlab.com**.
 
 ## Fitness disclaimer
 
@@ -72,4 +72,4 @@ records of anything critical.
 
 ## Contact
 
-**vertex.strength.support@gmail.com**
+**support@vertexstrengthlab.com**

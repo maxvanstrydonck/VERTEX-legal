@@ -3,7 +3,7 @@
 _Last updated: July 13, 2026_
 
 VERTEX ("the app") is a workout tracker with a social feed, operated by Max Vanstry
-(contact: vertex.strength.support@gmail.com). This policy explains what data the app handles
+(contact: support@vertexstrengthlab.com). This policy explains what data the app handles
 and what happens to it.
 
 ## Data we collect
@@ -110,4 +110,4 @@ app's release notes.
 
 ## Contact
 
-Questions or data requests: **vertex.strength.support@gmail.com**
+Questions or data requests: **support@vertexstrengthlab.com**
