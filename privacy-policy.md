@@ -1,6 +1,6 @@
 # VERTEX Privacy Policy
 
-_Last updated: July 13, 2026_
+_Last updated: July 17, 2026_
 
 VERTEX ("the app") is a workout tracker with a social feed, operated by Max Vanstry
 (contact: support@vertexstrengthlab.com). This policy explains what data the app handles
@@ -44,10 +44,14 @@ and sort clubs by distance. This is optional (the app asks first), happens on
 your device only, and your location is **never uploaded to our servers or shared
 with other users**.
 
-**Crash reports** — if the app crashes, technical details about the crash (device
-model, OS version, app state at the time) may be sent to our crash-reporting
-provider (Sentry) so we can fix the bug. Crash reports are configured to contain
-no account or fitness data.
+**Crash reports** — if the app hits an error while you are signed in, technical
+details about it (the error message, app version, platform, and OS version) are
+stored in our backend so we can fix the bug. Some builds may additionally send
+the same technical details to our crash-reporting provider (Sentry). Crash
+reports are configured to contain no account or fitness data.
+
+**App preferences** — settings such as your chosen app language are stored on
+your device only and are never uploaded.
 
 We do **not** collect advertising identifiers or contacts, and we do not use
 third-party tracking for advertising or analytics.
