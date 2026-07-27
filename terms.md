@@ -1,6 +1,6 @@
 # VERTEX Terms of Use & Content Policy
 
-_Last updated: July 12, 2026_
+_Last updated: July 27, 2026_
 
 By creating a VERTEX account you agree to these terms.
 
@@ -46,9 +46,14 @@ tagged in a workout.
 - **We have zero tolerance for objectionable content and abusive users.** Content
   or behavior that violates the rules above leads to removal of the content and
   suspension or deletion of the offending account, without prior notice.
-- You can **report** an athlete from their profile page and **block** any athlete
-  (Settings shows your block list). Blocking hides your content from each other in
-  both directions.
+- **We automatically screen** display names, usernames, workout captions,
+  comments and routine names against a list of prohibited terms. Matches are
+  masked before other users see them, and a username containing one is refused.
+  Automated screening is a first line of defence, not a substitute for the
+  reporting process below.
+- You can **report** an athlete from their profile page, or a specific post from
+  the feed, and **block** any athlete (Settings shows your block list). Blocking
+  hides your content from each other in both directions.
 - **We act on reports within 24 hours**: reported content is reviewed and, where it
   violates these terms, removed — and the user who posted it ejected — within that
   window.
