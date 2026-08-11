@@ -1,6 +1,6 @@
 # VERTEX Privacy Policy
 
-_Last updated: July 27, 2026_
+_Last updated: August 11, 2026_
 
 VERTEX ("the app") is a workout tracker with a social feed, operated by Max Vanstry
 (contact: support@vertexstrengthlab.com). This policy explains what data the app handles
