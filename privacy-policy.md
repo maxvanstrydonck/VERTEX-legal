@@ -101,6 +101,10 @@ photos, follows, kudos, comments, push tokens, and blocks from our servers and
 removes the local copy from your device. Reports you filed about other users are
 retained (without your account link) for moderation history.
 
+If you cannot reach the app, you can request deletion by email instead. See
+[Delete your account](/delete-account), which also sets out in full what is
+removed and what is kept. Email requests are actioned within 30 days.
+
 ## Notifications
 
 Workout reminders and training tips are scheduled locally on your device — no
