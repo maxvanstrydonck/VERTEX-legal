@@ -16,8 +16,8 @@ prohibited terms. Reports are aimed to be reviewed and acted on within 24 hours.
 
 ## Legal
 
-- [Privacy Policy](privacy-policy.md)
-- [Terms of Use & Content Policy](terms.md)
+- Privacy Policy: [English](privacy-policy.md) · [Nederlands](privacy-policy.nl.md) · [Français](privacy-policy.fr.md) · [Español](privacy-policy.es.md)
+- Terms of Use & Content Policy: [English](terms.md) · [Nederlands](terms.nl.md) · [Français](terms.fr.md) · [Español](terms.es.md)
 
 ## Delete your account
 

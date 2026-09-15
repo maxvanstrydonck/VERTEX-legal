@@ -1,6 +1,6 @@
 # VERTEX Privacy Policy
 
-_Last updated: August 11, 2026_
+_Last updated: September 15, 2026_
 
 VERTEX ("the app") is a workout tracker with a social feed, operated by Max Vanstry
 (contact: support@vertexstrengthlab.com). This policy explains what data the app handles
@@ -97,9 +97,15 @@ above allow.
 
 You can delete your account at any time in **Settings → Danger zone → Delete
 account**. This permanently deletes your account, profile, workouts, routines,
-photos, follows, kudos, comments, push tokens, and blocks from our servers and
-removes the local copy from your device. Reports you filed about other users are
-retained (without your account link) for moderation history.
+photos, follows, kudos, comments, push tokens, blocks, and the reports you filed
+about other users from our servers, and removes the local copy from the device
+you delete from. Any other device you are signed in on is signed out, but the
+copy already on it stays until the app is reinstalled or its data is cleared.
+
+What is kept: a report another user filed **about** you stays in our moderation
+records, because deleting it would erase the basis of a decision made about
+somebody else. Anonymous, aggregated records that cannot be traced back to you
+may also remain, and we keep the minimum any applicable law requires.
 
 If you cannot reach the app, you can request deletion by email instead. See
 [Delete your account](/delete-account), which also sets out in full what is
