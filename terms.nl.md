@@ -1,6 +1,6 @@
 # VERTEX Gebruiksvoorwaarden en contentbeleid
 
-_Laatst bijgewerkt: 27 juli 2026_
+_Laatst bijgewerkt: 15 september 2026_
 
 Door een VERTEX-account aan te maken ga je akkoord met deze voorwaarden.
 
@@ -16,9 +16,11 @@ verwijderen we het account en de bijbehorende gegevens.
 
 ## Je account
 
-Je moet een geldig e-mailadres opgeven en je inloggegevens veilig bewaren. Je
-bent verantwoordelijk voor wat er met je account gebeurt. Je kunt je account op
-elk moment verwijderen via Instellingen; verwijdering is definitief.
+Je kunt een account aanmaken met een e-mailadres en wachtwoord, met Log in met
+Apple (op iPhone) of met Google. Welke manier je ook kiest, het account moet
+gekoppeld zijn aan een geldig e-mailadres en je moet de toegang ertoe veilig
+houden. Je bent verantwoordelijk voor wat er met je account gebeurt. Je kunt je
+account op elk moment verwijderen via Instellingen; verwijdering is definitief.
 
 ## Aanvaardbaar gebruik en regels voor content
 
@@ -34,15 +36,26 @@ zichtbaar zijn voor andere gebruikers. Je gaat ermee akkoord dat je niet:
 
 ## Je content
 
-Je bent eigenaar van de content die je plaatst (gedeelde workouts, bijschriften,
-foto's, reacties, je profiel). Door die content in de app te delen, geef je ons
-het niet-exclusieve recht om ze op te slaan en te tonen aan de gebruikers die de
-deelregels van de app toelaten (je volgers, en leden van gym-leaderboards als je
-daarvoor kiest). Dat is wat de sociale functies mogelijk maakt. Dit recht
-vervalt voor content die je verwijdert en wanneer je account wordt verwijderd.
-Je bent verantwoordelijk voor wat je plaatst en je moet het recht hebben om het
-te plaatsen, inclusief de toestemming van iedereen die herkenbaar is op een foto
-of die in een workout is getagd.
+Je bent eigenaar van de content die je plaatst (gedeelde workouts, posts,
+bijschriften, foto's, reacties, routines, eigen oefeningen, je profiel). Door die
+content in de app te delen, geef je ons het niet-exclusieve recht om ze op te
+slaan en te tonen aan de gebruikers die de deelregels van de app toelaten. Dat is
+wat de sociale functies mogelijk maakt: elke aangemelde gebruiker als je account
+openbaar is, de volgers die je hebt goedgekeurd als het privé is, en de leden van
+elk leaderboard of weekklassement waarop je verschijnt. Het Privacybeleid beschrijft
+die regels volledig. Dit recht vervalt voor content die je verwijdert en wanneer je
+account wordt verwijderd, behalve dat kopieën van je geplaatste routines die andere
+atleten al aan hun eigen routines hebben toegevoegd, van hen blijven. Je bent
+verantwoordelijk voor wat je plaatst en je moet het recht hebben om het te
+plaatsen, inclusief de toestemming van iedereen die herkenbaar is op een foto of
+die in een workout is getagd.
+
+## Vertex Athlete-status
+
+Vertex Athlete is een status waarvoor je in de app kunt aanvragen. We kennen die
+naar eigen inzicht toe, ze vereist een openbaar account en ze vervalt als je je
+account privé maakt. We kunnen de status intrekken als je deze voorwaarden
+schendt.
 
 ## Moderatie
 
@@ -50,12 +63,12 @@ of die in een workout is getagd.
   Content of gedrag dat de regels hierboven schendt, leidt zonder voorafgaande
   kennisgeving tot verwijdering van de content en tot schorsing of verwijdering
   van het account in kwestie.
-- **We controleren automatisch** weergavenamen, gebruikersnamen, bijschriften bij
-  workouts, reacties en namen van routines aan de hand van een lijst met
-  verboden woorden. Treffers worden gemaskeerd voordat andere gebruikers ze te
-  zien krijgen, en een gebruikersnaam die zo'n woord bevat, wordt geweigerd.
-  Automatische controle is een eerste verdedigingslinie en vervangt de
-  meldprocedure hieronder niet.
+- **We controleren automatisch** weergavenamen, gebruikersnamen, titels en
+  bijschriften van workouts, reacties, namen van routines en namen van eigen
+  oefeningen aan de hand van een lijst met verboden woorden. Treffers worden
+  gemaskeerd voordat andere gebruikers ze te zien krijgen, en een gebruikersnaam
+  die zo'n woord bevat, wordt geweigerd. Automatische controle is een eerste
+  verdedigingslinie en vervangt de meldprocedure hieronder niet.
 - Je kunt een atleet **melden** vanaf diens profielpagina, of een specifieke post
   vanuit de feed, en je kunt elke atleet **blokkeren** (je lijst met geblokkeerde
   atleten staat in Instellingen). Blokkeren verbergt jullie content voor elkaar,
@@ -69,13 +82,14 @@ of die in een workout is getagd.
 ## Disclaimer over fitness
 
 VERTEX is een hulpmiddel om je training bij te houden en geeft geen medisch of
-coachingadvies. Voorgestelde trainingsschema's, trainingstips, geschatte 1RM's en
-geschatte calorieën zijn algemene fitnessinformatie die wordt berekend op basis
-van wat je registreert. Het zijn schattingen, ze zijn geen medisch advies op maat
-en ze kunnen voor jouw situatie onjuist zijn. Raadpleeg een gekwalificeerde
-professional voordat je aan een trainingsprogramma begint, zeker als je een
-medische aandoening of blessure hebt. Krachttraining brengt een inherent risico
-op blessures met zich mee; je traint op eigen risico.
+coachingadvies. Voorgestelde trainingsschema's, trainingstips, aanbevelingen van
+de coach, krachtnormen, prognoses, geschatte 1RM's en geschatte calorieën zijn
+algemene fitnessinformatie die wordt berekend op basis van wat je registreert. Het
+zijn schattingen, ze zijn geen medisch advies op maat en ze kunnen voor jouw
+situatie onjuist zijn. Raadpleeg een gekwalificeerde professional voordat je aan
+een trainingsprogramma begint, zeker als je een medische aandoening of blessure
+hebt. Krachttraining brengt een inherent risico op blessures met zich mee; je
+traint op eigen risico.
 
 ## De dienst
 

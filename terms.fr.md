@@ -1,6 +1,6 @@
 # Conditions d'utilisation et politique de contenu de VERTEX
 
-_Dernière mise à jour : 27 juillet 2026_
+_Dernière mise à jour : 15 septembre 2026_
 
 En créant un compte VERTEX, vous acceptez les présentes conditions.
 
@@ -16,10 +16,11 @@ compte et ses données.
 
 ## Votre compte
 
-Vous devez fournir une adresse e-mail valide et garder vos identifiants en
-sécurité. Vous êtes responsable de l'activité de votre compte. Vous pouvez
-supprimer votre compte à tout moment dans les Réglages ; la suppression est
-définitive.
+Vous pouvez créer un compte avec une adresse e-mail et un mot de passe, avec
+Se connecter avec Apple (sur iPhone) ou avec Google. Quelle que soit la méthode, le
+compte doit être associé à une adresse e-mail valide et vous devez en protéger
+l'accès. Vous êtes responsable de l'activité de votre compte. Vous pouvez supprimer
+votre compte à tout moment dans les Réglages ; la suppression est définitive.
 
 ## Utilisation acceptable et règles de contenu
 
@@ -36,16 +37,27 @@ engagez à ne pas :
 
 ## Votre contenu
 
-Vous êtes propriétaire du contenu que vous publiez (séances partagées, légendes,
-photos, commentaires, votre profil). En le partageant dans l'application, vous
-nous accordez le droit non exclusif de l'héberger et de l'afficher aux
-utilisateurs autorisés par les règles de partage de l'application (vos abonnés,
-et les membres des classements de salle si vous choisissez d'y participer), ce qui
-permet aux fonctions sociales de fonctionner. Ce droit prend fin pour le contenu
-que vous supprimez et lorsque votre compte est supprimé. Vous êtes responsable de
+Vous êtes propriétaire du contenu que vous publiez (séances partagées,
+publications, légendes, photos, commentaires, routines, exercices personnalisés,
+votre profil). En le partageant dans l'application, vous nous accordez le droit non
+exclusif de l'héberger et de l'afficher aux utilisateurs autorisés par les règles
+de partage de l'application, ce qui permet aux fonctions sociales de fonctionner :
+tout utilisateur connecté si votre compte est public, les abonnés que vous avez
+acceptés s'il est privé, et les membres de tout classement ou classement hebdo où
+vous apparaissez. La Politique de confidentialité décrit ces règles en détail. Ce
+droit prend fin pour le contenu que vous supprimez et lorsque votre compte est
+supprimé, à ceci près que les copies de vos routines publiées que d'autres athlètes
+ont déjà ajoutées à leurs propres routines leur restent. Vous êtes responsable de
 ce que vous publiez et devez avoir le droit de le publier, y compris le
 consentement de toute personne identifiable sur une photo ou identifiée dans une
 séance.
+
+## Statut Vertex Athlete
+
+Vertex Athlete est un statut que vous pouvez demander dans l'application. Nous
+l'accordons à notre discrétion ; il exige un compte public et prend fin si vous
+rendez votre compte privé. Nous pouvons le retirer si vous enfreignez les présentes
+conditions.
 
 ## Modération
 
@@ -54,11 +66,12 @@ séance.
   ci-dessus entraîne, sans préavis, la suppression du contenu et la suspension ou
   la suppression du compte concerné.
 - **Nous contrôlons automatiquement** les noms affichés, les noms d'utilisateur,
-  les légendes de séances, les commentaires et les noms de routines à l'aide d'une
-  liste de termes interdits. Les correspondances sont masquées avant que d'autres
-  utilisateurs ne puissent les voir, et un nom d'utilisateur qui en contient une
-  est refusé. Ce contrôle automatique est une première ligne de défense ; il ne
-  remplace pas la procédure de signalement décrite ci-dessous.
+  les titres et légendes de séances, les commentaires, les noms de routines et les
+  noms d'exercices personnalisés à l'aide d'une liste de termes interdits. Les
+  correspondances sont masquées avant que d'autres utilisateurs ne puissent les
+  voir, et un nom d'utilisateur qui en contient une est refusé. Ce contrôle
+  automatique est une première ligne de défense ; il ne remplace pas la procédure
+  de signalement décrite ci-dessous.
 - Vous pouvez **signaler** un athlète depuis sa page de profil, ou une publication
   précise depuis le fil, et **bloquer** n'importe quel athlète (la liste des
   athlètes bloqués figure dans les Réglages). Le blocage masque vos contenus
@@ -72,11 +85,12 @@ séance.
 ## Avertissement relatif à la condition physique
 
 VERTEX est un outil de suivi, pas un avis médical ni un coaching. Les programmes
-d'entraînement suggérés, les conseils d'entraînement, les 1RM estimés et les
-estimations de calories sont des informations générales sur la condition physique,
-calculées à partir de ce que vous enregistrez. Ce sont des estimations, elles ne
-constituent pas un avis médical personnalisé et peuvent ne pas convenir à votre
-situation. Consultez un professionnel qualifié avant de commencer un programme
+d'entraînement suggérés, les conseils d'entraînement, les recommandations du coach,
+les standards de force, les projections, les 1RM estimés et les estimations de
+calories sont des informations générales sur la condition physique, calculées à
+partir de ce que vous enregistrez. Ce sont des estimations, elles ne constituent
+pas un avis médical personnalisé et peuvent ne pas convenir à votre situation.
+Consultez un professionnel qualifié avant de commencer un programme
 d'entraînement, en particulier si vous souffrez d'un problème de santé ou d'une
 blessure. La musculation comporte un risque inhérent de blessure ; vous vous
 entraînez à vos propres risques.
