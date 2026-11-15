@@ -1,6 +1,6 @@
 # VERTEX Privacybeleid
 
-_Laatst bijgewerkt: 15 september 2026_
+_Laatst bijgewerkt: 15 november 2026_
 
 VERTEX ("de app") is een app om je trainingen bij te houden, met een sociale feed.
 De app wordt beheerd door Max Vanstry (contact: support@vertexstrengthlab.com). Dit
@@ -88,12 +88,20 @@ naar een externe dienst voor crashrapportage gestuurd.
 technische logs bij van verzoeken en aanmeldingen, inclusief IP-adressen, om de
 dienst draaiende en veilig te houden.
 
+**AI-connector**: staat uit tenzij je hem aanzet (zie "Je eigen AI-app koppelen"
+hieronder). Zolang hij aanstaat, bewaren we een vingerafdruk (een eenrichtingshash)
+van je persoonlijke link, wanneer die is gemaakt en wanneer een AI-app hem voor het
+laatst heeft gebruikt. We noteren ook elke keer dat je een link maakt, gedurende één
+dag, om te beperken hoe vaak er een nieuwe kan worden gemaakt.
+
 **Alleen op je toestel**: de taal van de app, je trainingsanalyse en de
 aanbevelingen van de coach (op je toestel berekend uit je gesynchroniseerde
 workouts), de liftdoelen die je instelt, welke aanbevelingen je hebt weggeklikt, de
 instelling voor het weekoverzicht, en widgets op het toegangsscherm en het
 beginscherm. Afbeeldingen om te delen worden op je toestel gemaakt; een foto die je
-als achtergrond van zo'n afbeelding kiest, wordt **nooit geüpload**.
+als achtergrond van zo'n afbeelding kiest, wordt **nooit geüpload**. Een export van
+je trainingsdata (zie "Je rechten") wordt ook op je toestel gemaakt, net als de
+kopie van je AI-connectorlink die de app bewaart om hem je opnieuw te kunnen tonen.
 
 We verzamelen **geen** advertentie-ID's of contacten, en we gebruiken geen tracking
 door derden voor advertenties of analyses.
@@ -192,13 +200,42 @@ gegevens in onze opdracht en alleen voor het beschreven doel:
   scherm worden gedeeld met de tegelservers van OpenStreetMap. Je locatie zelf wordt
   niet verstuurd.
 
+## Je eigen AI-app koppelen
+
+Je kunt een AI-app die je gebruikt, zoals Claude van Anthropic of ChatGPT van
+OpenAI, je trainingsdata laten lezen, zodat je die app vragen over je training kunt
+stellen. De connector staat **standaard uit**. Er wordt niets gedeeld tenzij je hem aanzet
+via **Instellingen → Gegevens → Verbind je AI** en de link die de app je geeft aan
+je AI-app toevoegt.
+
+- **Wat hij kan lezen**: je workouts en hun sets (datums, titels, duur, oefeningen,
+  gewichten, herhalingen, holds en soorten sets, en het lichaamsgewicht dat bij een
+  set van een lichaamsgewichtoefening is vastgelegd) en de namen van eigen
+  oefeningen die je hebt gemaakt. Hij kan je profiel, je andere lichaamsgegevens,
+  routines, programma's, bijschriften, foto's, getagde trainingspartners, volgers of
+  iets anders **niet** lezen, en hij kan niets wijzigen.
+- **Wie de gegevens ontvangt**: de AI-aanbieder die **jij kiest**, wanneer je AI-app
+  erom vraagt. Die aanbieder is geen van onze dienstverleners: hij verwerkt je
+  gegevens volgens zijn eigen voorwaarden en privacybeleid, die je met hem bent
+  aangegaan.
+- **Je link is de sleutel.** Iedereen die je persoonlijke link heeft, kan dezelfde
+  gegevens lezen, dus houd hem privé. We bewaren er alleen een eenrichtingshash van,
+  zodat we hem niet van onze servers kunnen terughalen. De app bewaart een kopie op
+  het toestel waarop je hem hebt gemaakt, zodat je hem opnieuw kunt delen.
+- **Uitzetten**: met **Uitzetten** in hetzelfde scherm, of met **Maak een nieuwe
+  link**, werkt de oude link meteen niet meer. Wat een AI-app al heeft gelezen,
+  wordt daarmee niet verwijderd; vraag die aanbieder om het te verwijderen als je
+  dat wilt.
+- Als je je account verwijdert, wordt de connector uitgezet en wordt alles wat we
+  ervoor hebben bewaard verwijderd.
+
 ## Waarom we je gegevens gebruiken
 
 - **Om de app te leveren waarvoor je je hebt aangemeld**: je account, het
   synchroniseren van je training tussen toestellen en de sociale functies die je
   kiest te gebruiken.
 - **Met je toestemming**: optionele lichaamsgegevens, de locatie van je toestel voor
-  de gymzoeker, en meldingen. Je kunt je toestemming op elk moment intrekken door de
+  de gymzoeker, meldingen en de AI-connector. Je kunt je toestemming op elk moment intrekken door de
   gegevens te verwijderen of de toestemming of instelling uit te schakelen.
 - **Om de dienst veilig te houden** (ons gerechtvaardigd belang): automatische
   controle van content, het afhandelen van meldingen, het oplossen van crashes en
@@ -236,9 +273,15 @@ wordt dat onvoltooide account na ongeveer drie dagen automatisch verwijderd.
 ## Je rechten
 
 Je kunt ons vragen om een kopie van je gegevens, om ze te corrigeren, om ze te
-verwijderen, om het gebruik ervan te beperken of er bezwaar tegen te maken, of om
-de gegevens die je ons hebt gegeven in een overdraagbaar formaat te ontvangen. Veel
-daarvan kun je zelf in de app doen; mail voor de rest naar
+verwijderen, om het gebruik ervan te beperken of er bezwaar tegen te maken, of om de
+gegevens die je ons hebt gegeven in een overdraagbaar formaat te ontvangen.
+
+Voor je training doet de app dat laatste zelf: **Instellingen → Gegevens →
+Trainingsdata exporteren** (op iPhone) maakt een CSV-bestand met elke set die je
+hebt gelogd, dat je kunt bewaren of versturen waar je maar wilt. Het bestand wordt
+op je toestel gemaakt en niet door ons geüpload.
+
+Veel daarvan kun je zelf in de app doen; mail voor de rest naar
 **support@vertexstrengthlab.com** en we antwoorden binnen 30 dagen. Je hebt ook het
 recht om een klacht in te dienen bij de gegevensbeschermingsautoriteit van het land
 waar je woont.

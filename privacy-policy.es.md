@@ -1,6 +1,6 @@
 # Política de privacidad de VERTEX
 
-_Última actualización: 15 de septiembre de 2026_
+_Última actualización: 15 de noviembre de 2026_
 
 VERTEX ("la app") es una app para registrar entrenamientos con un feed social,
 gestionada por Max Vanstry (contacto: support@vertexstrengthlab.com). Esta política
@@ -85,13 +85,21 @@ que podamos corregirlo. No contienen datos de la cuenta ni de actividad física 
 alojamiento guarda registros técnicos de las solicitudes y los inicios de sesión,
 incluidas las direcciones IP, para mantener el servicio en funcionamiento y seguro.
 
+**Conector de IA**: está desactivado salvo que lo actives (ver "Conectar tu propia
+app de IA" más abajo). Mientras está activado, guardamos una huella (un hash
+unidireccional) de tu enlace personal, cuándo se creó y cuándo lo usó por última vez
+una app de IA. También anotamos cada vez que creas un enlace, durante un día, para
+limitar con qué frecuencia se puede crear uno nuevo.
+
 **Solo en tu dispositivo**: el idioma de la app, tu análisis de entrenamiento y las
 recomendaciones del entrenador (calculados en tu dispositivo a partir de tus
 entrenamientos sincronizados), los objetivos de levantamiento que te pones, las
 recomendaciones que has descartado, el ajuste del resumen semanal, y los widgets de
 la pantalla bloqueada y de la pantalla de inicio. Las imágenes para compartir se
 crean en tu dispositivo; una foto que eliges como fondo de esa imagen **nunca se
-sube**.
+sube**. Una exportación de tus datos de entrenamiento (ver "Tus derechos") también
+se crea en tu dispositivo, igual que la copia de tu enlace del conector de IA que la
+app guarda para poder mostrártelo de nuevo.
 
 **No** recogemos identificadores publicitarios ni contactos, y no usamos
 seguimiento de terceros con fines publicitarios ni analíticos.
@@ -194,12 +202,41 @@ nuestro nombre y solo para la finalidad descrita:
   dirección IP y la zona del mapa que aparece en pantalla con los servidores de
   mosaicos de OpenStreetMap. Tu ubicación en sí no se envía.
 
+## Conectar tu propia app de IA
+
+Puedes permitir que una app de IA que uses, como Claude de Anthropic o ChatGPT de
+OpenAI, lea tus datos de entrenamiento para que puedas preguntarle sobre tu
+entrenamiento. El conector está **desactivado por defecto**. No se comparte nada salvo que lo
+actives en **Ajustes → Datos → Conecta tu IA** y añadas a tu app de IA el enlace que
+te da la app.
+
+- **Qué puede leer**: tus entrenamientos y sus series (fechas, títulos, duraciones,
+  ejercicios, pesos, repeticiones, isometrías y tipos de serie, y el peso corporal
+  registrado con una serie de un ejercicio de peso corporal) y los nombres de los
+  ejercicios personalizados que hayas creado. **No** puede leer tu perfil, tus otros
+  datos corporales, rutinas, programas, descripciones, fotos, compañeros
+  etiquetados, seguidores ni nada más, y no puede cambiar nada.
+- **Quién los recibe**: el proveedor de IA **que tú eliges**, cuando tu app de IA
+  los pide. Ese proveedor no es uno de nuestros proveedores de servicios: trata tus
+  datos según sus propias condiciones y su propia política de privacidad, que
+  aceptaste con él.
+- **Tu enlace es la llave.** Cualquiera que tenga tu enlace personal puede leer los
+  mismos datos, así que mantenlo en privado. Solo guardamos un hash unidireccional
+  de él, por lo que no podemos recuperarlo desde nuestros servidores. La app guarda
+  una copia en el dispositivo en el que lo creaste para que puedas volver a
+  compartirlo.
+- **Desactivarlo**: **Desactivar** en la misma pantalla, o **Crear un enlace
+  nuevo**, hace que el enlace anterior deje de funcionar al instante. No elimina lo
+  que una app de IA ya haya leído; pide a ese proveedor que lo elimine si quieres
+  que desaparezca.
+- Eliminar tu cuenta desactiva el conector y borra todo lo que guardamos para él.
+
 ## Por qué usamos tus datos
 
 - **Para prestarte la app en la que te registraste**: tu cuenta, la sincronización de
   tu entrenamiento entre dispositivos y las funciones sociales que decidas usar.
 - **Con tu consentimiento**: los datos corporales opcionales, la ubicación del
-  dispositivo para el buscador de gimnasios y las notificaciones. Puedes retirar tu
+  dispositivo para el buscador de gimnasios, las notificaciones y el conector de IA. Puedes retirar tu
   consentimiento en cualquier momento eliminando los datos o desactivando el permiso
   o el ajuste.
 - **Para mantener el servicio seguro** (nuestro interés legítimo): la revisión
@@ -240,10 +277,17 @@ días.
 
 Puedes pedirnos una copia de tus datos, que los corrijamos, que los eliminemos, que
 limitemos su uso o oponerte a él, o recibir los datos que nos diste en un formato
-portable. Gran parte de esto puedes hacerlo tú mismo en la app; para lo demás,
-escribe a **support@vertexstrengthlab.com** y te responderemos en un plazo de 30
-días. También tienes derecho a presentar una reclamación ante la autoridad de
-protección de datos del país donde vives.
+portable.
+
+Para tu entrenamiento, la app hace esto último por sí misma: **Ajustes → Datos →
+Exportar tus entrenamientos** (en iPhone) crea un archivo CSV con cada serie que has
+registrado, que puedes guardar o enviar a donde quieras. El archivo se crea en tu
+dispositivo y no lo subimos nosotros.
+
+Gran parte de esto puedes hacerlo tú mismo en la app; para lo demás, escribe a
+**support@vertexstrengthlab.com** y te responderemos en un plazo de 30 días. También
+tienes derecho a presentar una reclamación ante la autoridad de protección de datos
+del país donde vives.
 
 ## Notificaciones
 

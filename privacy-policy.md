@@ -1,6 +1,6 @@
 # VERTEX Privacy Policy
 
-_Last updated: September 15, 2026_
+_Last updated: November 15, 2026_
 
 VERTEX ("the app") is a workout tracker with a social feed, operated by Max Vanstry
 (contact: support@vertexstrengthlab.com). This policy explains what data the app handles,
@@ -79,11 +79,19 @@ data, and they are **not** sent to any third-party crash-reporting service.
 logs of requests and sign-ins, including IP addresses, to keep the service running
 and secure.
 
+**AI connector**: off unless you turn it on (see "Connecting your own AI app"
+below). While it is on, we store a fingerprint (a one-way hash) of your
+personal link, when it was made, and when an AI app last used it. We also note
+each time you make a link, for one day, to limit how often a new one can be
+made.
+
 **Kept on your device only**: your app language, your training analysis and coach
 recommendations (worked out on your device from your synced workouts), lift
 targets you set, which recommendations you dismissed, the weekly recap setting, and
 Lock Screen and home-screen widgets. Share images are made on your device; a photo
-you pick as a share image's background is **never uploaded**.
+you pick as a share image's background is **never uploaded**. A training-data
+export (see "Your rights") is also made on your device, and so is the copy of
+your AI connector link that the app keeps so it can show it to you again.
 
 We do **not** collect advertising identifiers or contacts, and we do not use
 third-party tracking for advertising or analytics.
@@ -174,13 +182,39 @@ behalf and only for the purpose described:
   area on screen with OpenStreetMap's tile servers. Your location itself is not
   sent.
 
+## Connecting your own AI app
+
+You can let an AI app you use, such as Claude by Anthropic or ChatGPT by
+OpenAI, read your training data so you can ask it about your training. It is
+**off by default**. Nothing is shared unless you turn it on in **Settings →
+Data → Connect your AI** and add the link the app gives you to your AI app.
+
+- **What it can read**: your workouts and their sets (dates, titles, durations,
+  exercises, weights, reps, holds and set types, and the bodyweight recorded
+  with a bodyweight exercise's set) and the names of custom exercises you
+  created. It **cannot** read your profile, your other body stats, routines,
+  programs, captions, photos, tagged partners, followers or anything else, and
+  it cannot change anything.
+- **Who receives it**: the AI provider **you choose**, when your AI app asks
+  for it. That provider is not one of our service providers: it handles your
+  data under its own terms and privacy policy, which you accepted with them.
+- **Your link is the key.** Anyone who has your personal link can read the
+  same data, so keep it private. We store only a one-way hash of it, so we
+  cannot recover it from our servers. The app keeps a copy on the device you
+  made it on so you can share it again.
+- **Turning it off**: **Turn off** in the same screen, or **Make a new link**,
+  stops the old link working straight away. It does not remove what an AI app
+  already read; ask that provider to delete it if you want it gone.
+- Deleting your account turns the connector off and removes everything we
+  stored for it.
+
 ## Why we use your data
 
 - **To provide the app you signed up for**: your account, syncing your training
   across devices, and the social features you choose to use.
 - **With your consent**: optional body stats, device location for the gym finder,
-  and notifications. You can withdraw consent at any time by removing the data or
-  turning off the permission or setting.
+  notifications, and the AI connector. You can withdraw consent at any time by
+  removing the data or turning off the permission or setting.
 - **To keep the service safe** (our legitimate interest): automated content
   screening, handling reports, fixing crashes, and security logs.
 - **To meet legal obligations**: answering data requests and keeping what the law
@@ -213,6 +247,11 @@ unfinished account is deleted automatically after about three days.
 
 You can ask us for a copy of your data, to correct it, to delete it, to restrict or
 object to how we use it, or to receive the data you gave us in a portable format.
+For your training, the app does the last one itself: **Settings → Data → Export
+training data** (on iPhone) makes a CSV file with every set you logged, which
+you can save or send wherever you like. The file is made on your device and is
+not uploaded by us.
+
 Much of this you can do yourself in the app; for the rest, email
 **support@vertexstrengthlab.com** and we will answer within 30 days. You also have
 the right to complain to the data protection authority in the country where you
